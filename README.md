@@ -1,9 +1,9 @@
 
 ### Olá! Eu sou o Abdias Oliver 🖐
 
-[![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/abdias-santos)
+[![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdias-santos)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](@abdias_oliver)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abdias_oliver/)
 
 ![Oliver GitHub stats](https://github-readme-stats.vercel.app/api?username=abdiasoliver&show_icons=true&theme=dracula)
 
